@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Tewodros Awoke</h1>
 <h3 align="center">A passionate web developer from Ethiopia</h3>
-<img align="right" alt="Coding" width="400" src="https://www.google.com/imgres?imgurl=https%3A%2F%2Fuser-images.githubusercontent.com%2F37551474%2F113611467-3a567d80-9657-11eb-862b-b07b4f105c6f.gif&imgrefurl=https%3A%2F%2Fgithub.com%2Ftaylanyildiz%2Ftaylanyildiz&tbnid=TU6M-pr48V2rEM&vet=12ahUKEwjDy7ioy5v7AhUphM4BHS6mDJIQMygTegUIARCtAg..i&docid=GrUyn2R8vzzyaM&w=636&h=488&itg=1&q=animated%20coding%20gif&hl=en&ved=2ahUKEwjDy7ioy5v7AhUphM4BHS6mDJIQMygTegUIARCtAg"/>
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tewodros21&label=Profile%20views&color=0e75b6&style=flat" alt="tewodros21" /> </p>
 
