@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tewodros21&label=Profile%20views&color=0e75b6&style=flat" alt="tewodros21" /> </p>
 
-<p align="left"> <a href="https://twitter.com/tewodros awoke" target="blank"><img src="https://img.shields.io/twitter/follow/@awoketewodros?logo=twitter&style=for-the-badge" alt="@AwokeTewodros" /></a> </p>
+<p align="left"> <a href="https://twitter.com/@AwokeTewodros" target="blank"><img src="https://img.shields.io/twitter/follow/@awoketewodros?logo=twitter&style=for-the-badge" alt="@AwokeTewodros" /></a> </p>
 
 - 🔭 I’m currently working on **sunspring**
 
