@@ -1,6 +1,6 @@
 ![MasterHead](https://media-exp1.licdn.com/dms/image/C4E16AQGEwAWxC2ttKA/profile-displaybackgroundimage-shrink_350_1400/0/1646778685372?e=1673481600&v=beta&t=_dZjTk-ezSVbjKgbjvXbV0OmSafH9TGHB5buJXqrGeA)
 <h1 align="center">Hi 👋, I'm Tewodros Awoke</h1>
-<h3 align="center">A passionate web developer from Ethiopia</h3>
+<h3 align="center">trust me <b>I'M A PROGRAMMER</b></h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tewodros21&label=Profile%20views&color=0e75b6&style=flat" alt="tewodros21" /> </p>
