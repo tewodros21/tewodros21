@@ -1,4 +1,4 @@
-![MasterHead](https://media-exp1.licdn.com/dms/image/D4D35AQGDCvOctDBPZQ/profile-framedphoto-shrink_200_200/0/1664270161741?e=1669838400&v=beta&t=TSiv9lj4gX3_9i8DDYGw89EjNDNSTN3tNqOPqOJaNbM)
+![MasterHead](https://media-exp1.licdn.com/dms/image/C4E16AQGEwAWxC2ttKA/profile-displaybackgroundimage-shrink_350_1400/0/1646778685372?e=1674691200&v=beta&t=PXnRIEiF9yYDQ3814xYx9cyIcCdTZepLFha_50y--Wk)
 <h1 align="center">Hi 👋, I'm Tewodros Awoke</h1>
 <h3 align="center">trust me <b>I'M A PROGRAMMER</b></h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
