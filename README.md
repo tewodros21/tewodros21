@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on **web development**
 
-- 🌱 I’m currently learning **Back End Development and APIs**
+- 🌱 I’m currently Learning * Software Engineering @alx_africa @holbertonschool *
 
 - 📝 I regularly write articles on [facebook](facebook)
 
