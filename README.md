@@ -1,4 +1,4 @@
-[![MasterHead](https://developers.giphy.com/branch/master/static/api-512d36c09662682717108a38bbb5c57d.gif)](https://rishavchanda.io)
+[![MasterHead](https://media.licdn.com/dms/image/C4E16AQGEwAWxC2ttKA/profile-displaybackgroundimage-shrink_350_1400/0/1646778685372?e=1689206400&v=beta&t=iBwmbdvIORJgAlquPr8NTJ8y2vnc8sOCcCtfkh73R18)](https://tewodros21.io)
 <h1 align="center">Hi 👋, I'm Tewodros Awoke</h1>
 <h3 align="center">trust me <b>I'M A PROGRAMMER</b></h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
