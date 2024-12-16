@@ -1,4 +1,4 @@
-[![MasterHead]([[https://media.licdn.com/dms/image/v2/D4E16AQF6D8gFWdFxzw/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1730015851750?e=1740009600&v=beta&t=UWKCyGa4aC6qd28sGUP2uFRgxJQovdFxlBCOwl8YUL0))](https://tewodros21.io)
+[![MasterHead](https://media.licdn.com/dms/image/v2/D4E16AQF6D8gFWdFxzw/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1730015851750?e=1740009600&v=beta&t=UWKCyGa4aC6qd28sGUP2uFRgxJQovdFxlBCOwl8YUL0)](https://tewodros21.io)
 <h1 align="center">Hi 👋, I'm Tewodros Awoke</h1>
 <h3 align="center">trust me <b>I'M A PROGRAMMER</b></h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
