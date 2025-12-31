@@ -1,4 +1,5 @@
-[![MasterHead](https://images.pexels.com/photos/577585/pexels-photo-577585.jpeg)](https://tewodros21.io)
+[![MasterHead](https://images.pexels.com/photos/577585/pexels-photo-577585.jpeg?w=1000)](https://tewodros21.io)
+
 <h1 align="center">Hi 👋, I'm Tewodros Awoke</h1>
 <h3 align="center">trust me <b>I'M A PROGRAMMER</b></h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
