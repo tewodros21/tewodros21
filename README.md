@@ -1,9 +1,4 @@
-<a href="https://tewodros21.io">
-  <img src="https://images.pexels.com/photos/577585/pexels-photo-577585.jpeg"
-       alt="MasterHead"
-       width="1000"
-       style="border-radius: 10px;">
-</a>
+[![MasterHead](https://images.pexels.com/photos/577585/pexels-photo-577585.jpeg?w=1200&h=350&fit=crop)](https://tewodros21.io)
 
 
 <h1 align="center">Hi 👋, I'm Tewodros Awoke</h1>
