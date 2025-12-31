@@ -1,4 +1,10 @@
-[![MasterHead](https://www.pexels.com/photo/data-codes-through-eyeglasses-577585/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1730015851750?e=1740009600&v=beta&t=UWKCyGa4aC6qd28sGUP2uFRgxJQovdFxlBCOwl8YUL0)](https://tewodros21.io)
+<a href="https://tewodros21.io">
+  <img src="https://images.pexels.com/photos/577585/pexels-photo-577585.jpeg"
+       alt="MasterHead"
+       width="1000"
+       style="border-radius: 10px;">
+</a>
+
 
 <h1 align="center">Hi 👋, I'm Tewodros Awoke</h1>
 <h3 align="center">trust me <b>I'M A PROGRAMMER</b></h3>
