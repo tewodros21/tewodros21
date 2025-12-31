@@ -1,4 +1,5 @@
-[![MasterHead](https://images.pexels.com/photos/577585/pexels-photo-577585.jpeg?w=1400)](https://tewodros21.io)
+
+[![MasterHead]([https://media.licdn.com/dms/image/v2/D4E16AQF6D8gFWdFxzw/](https://www.pexels.com/photo/data-codes-through-eyeglasses-577585/)profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1730015851750?e=1740009600&v=beta&t=UWKCyGa4aC6qd28sGUP2uFRgxJQovdFxlBCOwl8YUL0)]
 
 
 <h1 align="center">Hi 👋, I'm Tewodros Awoke</h1>
